@@ -33,10 +33,7 @@ Net Flow Over Time (Line Chart)
 
 Top Spending Categories
 
-Raw Detailed Table
 
-Dashboard file: /powerbi/personal_finance_dashboard.pbix
-Screenshot included.
 
 🛢️ SQL Analysis
 
@@ -58,7 +55,7 @@ Account-Level Breakdown
 
 Top Transactions
 
-Full queries available in /sql/finance_queries.sql.
+Full queries available in https://github.com/deyanju-etl/personal-finance-analysis-/blob/main/Transactions.sql
 
 🎯 Key Insights
 
@@ -78,4 +75,4 @@ Excel – data cleaning and computation
 
 Power BI – dashboard and visualization
 
-SQL – validation and analytical queries**
+SQL – validation and analytical queries
