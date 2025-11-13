@@ -33,6 +33,9 @@ Net Flow Over Time (Line Chart)
 
 Top Spending Categories
 
+Dashboard Page 1 https://github.com/deyanju-etl/personal-finance-analysis-/blob/main/Page%201.png
+Dashboard Page 2 https://github.com/deyanju-etl/personal-finance-analysis-/blob/main/Page%202.png
+
 
 
 🛢️ SQL Analysis
