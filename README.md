@@ -1,7 +1,7 @@
 # personal-finance-analysis-
 This project analyzes personal financial transactions and budget data using Excel, Power BI, and SQL to uncover spending patterns, evaluate budget performance, and understand financial behavior over time.
 
-**🧹 Excel Data Cleaning
+ Excel Data Cleaning
 
 In Excel, the following steps were performed:
 
@@ -19,17 +19,17 @@ Created Variance = Budget – Actual spending
 
 Replaced missing budget categories with 0
 
-📊 Power BI Dashboard
+ Power BI Dashboard
 
 The dashboard includes:
 
 KPI Cards → Total Income, Total Expense, Net Flow, Budget Variance
 
-Spending vs Budget (Bar Chart)
+Spending vs Budget 
 
-Account Breakdown (Card/Bar Chart)
+Account Breakdown 
 
-Net Flow Over Time (Line Chart)
+Net Flow Over Time 
 
 Top Spending Categories
 
@@ -38,7 +38,7 @@ Dashboard Page 2 https://github.com/deyanju-etl/personal-finance-analysis-/blob/
 
 
 
-🛢️ SQL Analysis
+SQL Analysis
 
 SQL queries were used to verify Power BI insights and extract deeper trends:
 
@@ -60,19 +60,8 @@ Top Transactions
 
 Full queries available in https://github.com/deyanju-etl/personal-finance-analysis-/blob/main/Transactions.sql
 
-🎯 Key Insights
-
-Highlighted categories with the highest spending
-
-Identified overspent areas vs budget
-
-Assessed monthly financial performance
-
-Analyzed spending trends across accounts
-
-Highlighted cash flow patterns
-
-🛠️ Tools Used
+ 
+ Tools Used
 
 Excel – data cleaning and computation
 
